@@ -1,8 +1,11 @@
-# beginner_pyth0n
-## grocery list
+##Variables
 
-* Apples
-* Cow
-* Flubber
-* Ginger 
-* Wild Tobo
+*Assigning variables 
+
+...
+
+x = 5
+str = "Tobo is a little baby"
+arr = [0,1,2,3,4]
+
+...
